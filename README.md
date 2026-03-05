@@ -3,8 +3,8 @@
 Bem-vindo ao meu hub central. Este repositório é o índice oficial da minha presença digital, conectando meus projetos profissionais, serviços e hobbys em um só lugar.
 
 ## 🛠 Meus Ecossistemas
-* **[CSLJ Dev](https://cslj.dev.br)**: Desenvolvimento Web Full Stack e Soluções Tech.
-* **[Dog Walker Ilhéus](https://dogwalkerilheus.com.br)**: Serviços especializados para pets.
+* **[CSLJ Dev](https://www.cslj.dev.br)**: Desenvolvimento Web Full Stack e Soluções Tech.
+* **[Dog Walker Ilhéus](https://www.dogwalkerilheus.com.br)**: Serviços especializados para pets.
 * **[Meu Blog](https://cleberslopesjr.blog.br)**: Reflexões, estudos e artigos técnicos.
 
 ## 📖 Trajetória & Propósito
