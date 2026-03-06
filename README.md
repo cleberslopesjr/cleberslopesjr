@@ -2,6 +2,14 @@
 
 Bem-vindo ao meu hub central. Este repositório é o índice oficial da minha presença digital, conectando meus projetos profissionais, serviços e hobbys em um só lugar.
 
+## 👨‍💻 Atuação Profissional
+
+### [Escritório de Advocacia Julio Gomes](https://github.com/escadvjuliogomes-cyber)
+**Papel:** Mantenedor de Infraestrutura Digital e SEO.
+* Responsável pela governança do repositório oficial.
+* Implementação de Dados Estruturados (JSON-LD) para otimização de E-E-A-T.
+* Gestão de fluxos de Pull Requests e integração contínua.
+
 ## 🛠 Meus Ecossistemas
 * **[CSLJ Dev](https://www.cslj.dev.br)**: Desenvolvimento Web Full Stack e Soluções Tech.
 * **[Dog Walker Ilhéus](https://www.dogwalkerilheus.com.br)**: Serviços especializados para pets.
